@@ -1,0 +1,23 @@
+
+
+.sidebar{
+  border-right: 1px solid rgba(0, 0, 0, 0.1);
+  background: #d8d9da;
+  a{
+    display: block;
+    height: 30px;
+    font-weight: bold;
+    padding-left: 10px;
+  }
+}
+
+.main-container{
+  height: calc(100vh - 73px);
+}
+
+form {
+  padding: 10px;
+  .form-group{
+    margin-right: 10px;
+  }
+}

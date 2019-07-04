@@ -1,0 +1,25 @@
+{
+  "id": 123,
+  "phone": 7349514992,
+  "score": [
+    {
+      "name": "Good",
+      "score_bucket": "354-996",
+      "percentile": "61-70"
+    }
+  ],
+  "scoreHistory": [
+    {
+      "name": "nov 2018",
+      "value": 100
+    },
+    {
+      "name": "dec 2018",
+      "value": 100
+    },
+    {
+      "name": "jan 2018",
+      "value": 112
+    }
+  ]
+}
